@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🎯 Enfocada en UX Design (Junior)<br>🧠 Interés en investigación de usuarios y usabilidad<br>🎨 Diseño de interfaces y prototipos<br>📚 En constante aprendizaje en experiencia de usuario
 
